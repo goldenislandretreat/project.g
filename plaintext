@@ -1,0 +1,21 @@
+/your-project-folder
+    /images
+        facebook.png
+        instagram.png
+        tiktok.png
+        youtube.png
+        logo.png
+        cover.jpg
+        bar.jpg
+        beer-club.jpg
+        venue.jpg
+        stage.jpg
+        wave.jpg
+    index.html
+    golden-bar.html
+    golden-beer-club.html
+    golden-island-venue.html
+    golden-stage.html
+    golden-wave.html
+    styles.css
+    script.js
